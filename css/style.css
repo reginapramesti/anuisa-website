@@ -1,0 +1,85 @@
+section#follow-us ul.social-buttons li a {
+  font-size: 50px;
+  line-height: 100px;
+  width: 100px;
+  height: 100px;
+}
+
+.portfolio-modal .modal-content img {
+  margin-bottom: 0px;
+}
+
+.team-member h4 {
+  margin-top: 0px;
+}
+
+.p-5 {
+  padding: 3rem!important;
+}
+
+#portfolio .portfolio-item .portfolio-link img {
+  object-fit: cover;
+  width: 400px;
+  height: 400px;
+}
+
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  border-radius: 50%!important;
+  width: 400px;
+  height: 400px;
+}
+
+.carousel-item img {
+  height: 600px;
+  object-fit: cover;
+}
+
+#sponsors img {
+  height: 100px;
+}
+
+#sponsors .row {
+  margin-bottom: 75px;
+}
+
+#contact h2 {
+  margin-bottom: 75px;
+}
+
+.navbar-brand img {
+  height: 65px;
+}
+
+.carousel {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header.masthead img {
+  width: 100%;
+}
+
+.scroll-to-top {
+  position: fixed;
+  right: 15px;
+  bottom: 15px;
+  display: none;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  background: rgba(254, 54, 54, 0.5);
+  line-height: 45px;
+}
+
+.scroll-to-top:focus, .scroll-to-top:hover {
+  color: white;
+}
+
+.scroll-to-top:hover {
+  background: rgba(254, 54, 54, 0.8);
+}
+
+.scroll-to-top i {
+  font-weight: 800;
+}
