@@ -13,6 +13,11 @@ section#follow-us ul.social-buttons li a {
   margin-top: 0px;
 }
 
+.team-member img {
+  width: 100%;
+  height: auto;
+}
+
 .p-5 {
   padding: 3rem!important;
 }
