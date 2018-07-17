@@ -40,7 +40,7 @@ section#follow-us ul.social-buttons li a {
 }
 
 #sponsors img {
-  height: 100px;
+  max-height: 120px;
 }
 
 #sponsors .row {
