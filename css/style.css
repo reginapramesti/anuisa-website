@@ -35,7 +35,7 @@ section#follow-us ul.social-buttons li a {
 }
 
 .carousel-item img {
-  height: 600px;
+  height: 550px;
   object-fit: cover;
 }
 
@@ -87,6 +87,26 @@ header.masthead img {
 
 .scroll-to-top i {
   font-weight: 800;
+}
+
+hr {
+  max-width: 100px;
+  border-width: 3px;
+  border-color: #F05F40;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+hr.light {
+  border-color: #fff;
+}
+
+footer {
+  padding: 50px 0;
+}
+
+#follow-us h2 {
+  margin-bottom: 50px;
 }
 
 /* Makes the navbar black even at the top
