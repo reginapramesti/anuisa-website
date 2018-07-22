@@ -88,3 +88,13 @@ header.masthead img {
 .scroll-to-top i {
   font-weight: 800;
 }
+
+/* Makes the navbar black even at the top
+   Comment out for transparent navbar */
+#mainNav {
+  background-color: #212529!important;
+}
+
+header.masthead {
+  margin-top: 66px;
+}

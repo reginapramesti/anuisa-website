@@ -4,6 +4,8 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
  */
 
+ /* Some sections modified by Regina Pramesti */
+
 body {
   overflow-x: hidden;
   font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -86,12 +88,12 @@ section h3.section-subheading {
 }
 
 ::-moz-selection {
-  background: #da1d2f;
+  background: #da1d2f7a;
   text-shadow: none;
 }
 
 ::selection {
-  background: #da1d2f;
+  background: #da1d2f7a;
   text-shadow: none;
 }
 
