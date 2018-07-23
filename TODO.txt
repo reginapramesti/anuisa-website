@@ -1,5 +1,5 @@
 1. Language - indonesian or english? (NOTE 1 title in committee list is in indo, rest english)
-2. Gallery -> add the pictures for users to click on below the carousel
+2. Gallery -> add the pictures for users to click on below the carousel (ALSO add more actual pictures)
 3. Provide our email on the website in case user doesn't want to use the contact form?
 4. Make phone an optional input
 5. Leave the message on the screen if it fails to send
