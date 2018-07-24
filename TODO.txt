@@ -1,6 +1,7 @@
 1. Language - indonesian or english? (NOTE 1 title in committee list is in indo, rest english)
 2. Gallery -> add the pictures for users to click on below the carousel (ALSO add more actual pictures)
-3. Provide our email on the website in case user doesn't want to use the contact form?
-4. Make phone an optional input
 5. Leave the message on the screen if it fails to send
 6. Fix alignment when contact form has missing fields
+
+Note: rename files with spaces: cmd /e:on /v:on /c "for %f in ("* *.jpg") do (set "n=%~nxf" & set "n=!n: =_!" & ren "%~ff" "!n!" )"
+(Useful for renaming images)
