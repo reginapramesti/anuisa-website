@@ -119,3 +119,8 @@ footer {
 header.masthead {
   margin-top: 66px;
 }
+
+#committee {
+  word-wrap: break-word;
+  hyphens: auto;
+}
