@@ -32,6 +32,7 @@ section#follow-us ul.social-buttons li a {
   border-radius: 50%!important;
   width: 400px;
   height: 400px;
+  max-width: 100%;
 }
 
 .carousel-item img {
